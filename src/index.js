@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 module.exports = {
   /**
@@ -18,3 +18,5 @@ module.exports = {
    */
   bootstrap(/*{ strapi }*/) {},
 };
+
+// test github commit
